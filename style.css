@@ -1,0 +1,22 @@
+* {
+    font-family:  'Helvetica', Arial, sans-serif;
+}
+
+.title {
+    text-align: center;
+    font-size: xx-large;
+}
+
+.title_highlight2 {
+    background-color: yellow;
+}
+
+.main_directory {
+    text-align: center;
+}
+
+.recipes {
+    display: inline-block;
+    text-align: left;
+    font-size: larger;
+}
